@@ -8,4 +8,4 @@ At first, I expect this repo to grow very slowly, and have really dummy things g
 
 ## Version History
 
-- 18 July 2015. First push!
+- 0.0.1. 18 July 2015. First commit and push!
