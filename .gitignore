@@ -1,0 +1,15 @@
+# This is a git ignore file, that specifies files that
+# should not be tracked by git, and won't be added to
+# GitHub.
+
+# Good practice to ignore packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# For practice
