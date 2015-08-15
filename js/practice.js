@@ -1,3 +1,4 @@
+
 var MainView = Backbone.View.extend({
 	el: '.main',
 	initialize: function () {
@@ -6,8 +7,12 @@ var MainView = Backbone.View.extend({
 	},
 
 	render: function () {
+		debugger
 		this.$el.html('I work')
+		return this
 	},
 })
 
 console.log('this works?')
+
+var mainViewer = new MainView()

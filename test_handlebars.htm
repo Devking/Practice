@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <script src="js/ext/jquery-1.11.3.min.js"></script>
+  <script src="js/ext/handlebars-v3.0.3.js"></script>
+</head>
+<body>
+
+  <script id="test-template" type="text/x-handlebars-template">
+    <table>
+      <thead>
+        <th>Username</th>
+        <th>Real Name</th>
+        <th>Email</th>
+      </thead>
+      <tbody>
+        {{#users}}
+          <tr>
+            <td>{{username}}</td>
+            <td>{{firstName}} {{lastName}}</td>
+            <td>{{email}}</td>
+          </tr>
+        {{/users}}
+      </tbody>
+    </table>
+  </script>
+  <script src="js/test_handlebars.js"></script>
+</body>
+</html>

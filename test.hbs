@@ -1,0 +1,21 @@
+<script type="text/javascript" src="/js/ext/handlebars-v3.0.3.js" />
+<script src="js/practice.js"></script>
+
+<script id="some-template" type="text/x-handlebars-template">
+  <table>
+    <thead>
+      <th>Username</th>
+      <th>Real Name</th>
+      <th>Email</th>
+    </thead>
+    <tbody>
+      {{#users}}
+        <tr>
+          <td>{{username}}</td>
+          <td>{{firstName}} {{lastName}}</td>
+          <td>{{email}}</td>
+        </tr>
+      {{/users}}
+    </tbody>
+  </table>
+</script>
