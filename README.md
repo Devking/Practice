@@ -20,5 +20,5 @@ At first, I expect this repo to grow very slowly, and have really dummy things g
 
 - 0.0.1. 18 July 2015. First commit and push!
 
-    Sublime shortcuts: [[1]](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
+    Sublime shortcuts: [[1]](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)<br />
     Helpful markdown cheat sheets: [[1]](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
