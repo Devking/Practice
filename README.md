@@ -8,6 +8,10 @@ At first, I expect this repo to grow very slowly, and have really dummy things g
 
 ## Version History
 
+- 0.0.4. 15 Aug 2015. Experimenting with locally running LESS.
+
+Some usage help: [[1]](http://lesscss.org/usage/)
+
 - 0.0.3. 14 Aug 2015. Experimenting with Handlebars.js.
 
 - 0.0.2. 18 July 2015. Started using a .gitignore file for the first time. Also practicing emacs.
