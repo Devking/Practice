@@ -10,15 +10,15 @@ At first, I expect this repo to grow very slowly, and have really dummy things g
 
 - 0.0.4. 15 Aug 2015. Experimenting with locally running LESS.
 
-Some usage help: [[1]](http://lesscss.org/usage/)
+    Some usage help: [[1]](http://lesscss.org/usage/)
 
 - 0.0.3. 14 Aug 2015. Experimenting with Handlebars.js.
 
 - 0.0.2. 18 July 2015. Started using a .gitignore file for the first time. Also practicing emacs.
 
-Helpful emacs cheat sheets: [[1]](http://www.rgrjr.com/emacs/emacs_cheat.html) [[2]](https://ccrma.stanford.edu/guides/package/emacs/emacs.html)
+    Helpful emacs cheat sheets: [[1]](http://www.rgrjr.com/emacs/emacs_cheat.html) [[2]](https://ccrma.stanford.edu/guides/package/emacs/emacs.html)
 
 - 0.0.1. 18 July 2015. First commit and push!
 
-Sublime shortcuts: [[1]](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
-Helpful markdown cheat sheets: [[1]](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    Sublime shortcuts: [[1]](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
+    Helpful markdown cheat sheets: [[1]](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
